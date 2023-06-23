@@ -1,6 +1,7 @@
 
 <p align="center"> 
 <img src="https://gpvc.arturio.dev/FG98F" />
+  <h2>Djalega++</h2>
 <p/>
 <p align="center">
 <a href="https://github.com/FG98F"><img title="Author" src="https://img.shields.io/badge/DyLux Bot-black?style=for-the-badge&logo=whatsApp"></a>
@@ -32,7 +33,7 @@ En caso de duda, antes de instalar dylux-bot, pruebe el bot aquí
 ***
 
 #### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FG98F/dylux-fg)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/djalegapremium /dylux-fg)
 
 #### Heroku Buildpack
 | BuildPack | LINK |
